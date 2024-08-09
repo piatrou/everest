@@ -1,13 +1,2 @@
-**
-!bin/everest
-!cmd
-!migrations
-!model
-!service
-!static
-!go.*
-!vendor
-!api
-!model
-!public
-!pkg
+.git/
+.idea/
